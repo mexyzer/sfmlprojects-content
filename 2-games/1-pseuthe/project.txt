@@ -26,7 +26,7 @@ Forum-thread: https://en.sfml-dev.org/forums/index.php?topic=18476.0
 
 ----
 
-Tig-source:
+Tig-source: 
 
 ----
 
@@ -98,7 +98,7 @@ Custom-link-two-label:
 
 ----
 
-Brief-main: itch_io
+Brief-main: gamejolt
 
 ----
 
@@ -127,3 +127,7 @@ Twitter:
 ----
 
 Youtube: 
+
+----
+
+Facebook: 
